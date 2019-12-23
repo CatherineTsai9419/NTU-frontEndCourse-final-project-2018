@@ -1,0 +1,124 @@
+* {
+    padding: 0;
+    margin: 0
+}
+
+body {
+    height: 100%;
+    width: 100%;
+    font-size: 12px;
+    color: #333;
+}
+
+ul {
+    list-style: none;
+}
+
+
+/*demo*/
+
+#background {
+    background-image: url('../IMG/輪盤底圖-小尺寸.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    -webkit-margin-top-collapse: separate;
+    height: 800px;
+}
+
+#background2 {
+    background-image: url('../IMG/page1.gif');
+    background-repeat: no-repeat;
+    background-position: center;
+    -webkit-margin-top-collapse: separate;
+    height: 800px;
+}
+
+#lottery {
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    top: 70px;
+    left: 12px;
+    position: relative;
+}
+
+#lottery div {
+    width: 125px;
+    height: 125px;
+    color: #333;
+    float: left;
+    border-radius: 25px;
+}
+
+#lottery .cent {
+    background: white;
+}
+
+#lottery .lottery-unit-0 {
+    background: white;
+}
+
+#lottery .lottery-unit-1 {
+    background: white;
+}
+
+#lottery .lottery-unit-2 {
+    background: white;
+}
+
+#lottery .lottery-unit-3 {
+    background: white;
+}
+
+#lottery .lottery-unit-4 {
+    background: white;
+}
+
+#lottery .lottery-unit-5 {
+    background: white;
+}
+
+#lottery .lottery-unit-6 {
+    background: white;
+}
+
+#lottery .lottery-unit-7 {
+    background: white;
+}
+
+#lottery .lottery-unit-8 {
+    background: white;
+}
+
+#lottery .lottery-unit-9 {
+    background: white;
+}
+
+#lottery .lottery-unit-10 {
+    background: white;
+}
+
+#lottery .lottery-unit-11 {
+    background: white;
+}
+
+#lottery div.select {
+    background: #00ca57;
+}
+
+#lottery .start {
+    position: absolute;
+    left: 125px;
+    top: 125px;
+    height: 250px;
+    width: 250px;
+    background: #00ca57;
+    font-size: 30px;
+    text-align: center;
+    cursor: pointer;
+    line-height: 250px;
+    color: #fff;
+    border-radius: 500px;
+    font-family: '微軟正黑體', Arial;
+    font-weight: bold;
+}

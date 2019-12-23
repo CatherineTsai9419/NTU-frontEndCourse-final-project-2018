@@ -1,0 +1,215 @@
+h1 {
+    text-align: center;
+    line-height: 150px;
+    font-family: 'Lato', sans-serif;
+}
+
+.button1 {
+    padding: 28px 300px;
+    background-color: rgba(0, 202, 87, 1);
+    border-radius: 11px;
+    color: #FFFFFF;
+    font-size: 58px;
+    font-family: '微軟正黑體', Arial;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.button2 {
+    padding: 28px 100px;
+    background-color: rgba(0, 202, 87, 1);
+    border-radius: 11px;
+    color: #FFFFFF;
+    font-size: 25px;
+    font-family: '微軟正黑體', Arial;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.button3 {
+    padding: 28px 300px;
+    background-color: rgba(0, 202, 87, 1);
+    border-radius: 11px;
+    color: #FFFFFF;
+    font-size: 58px;
+    font-family: '微軟正黑體', Arial;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.button4 {
+    padding: 28px 300px;
+    background-color: rgba(0, 202, 87, 1);
+    border-radius: 11px;
+    color: #FFFFFF;
+    font-size: 58px;
+    font-family: '微軟正黑體', Arial;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.button5 {
+    padding: 28px 300px;
+    background-color: rgba(0, 202, 87, 1);
+    border-radius: 11px;
+    color: #FFFFFF;
+    font-size: 58px;
+    font-family: '微軟正黑體', Arial;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.button6 {
+    padding: 28px 300px;
+    background-color: rgba(0, 202, 87, 1);
+    border-radius: 11px;
+    color: #FFFFFF;
+    font-size: 58px;
+    font-family: '微軟正黑體', Arial;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.page1 {
+    padding: 28px 100px;
+    background-color: rgba(0, 202, 87, 1);
+    border-radius: 11px;
+    color: #FFFFFF;
+    font-size: 25px;
+    font-family: '微軟正黑體', Arial;
+    font-weight: bold;
+    cursor: pointer;
+    display: none;
+}
+
+.page2 {
+    padding: 28px 100px;
+    background-color: rgba(0, 202, 87, 1);
+    border-radius: 11px;
+    color: #FFFFFF;
+    font-size: 25px;
+    font-family: '微軟正黑體', Arial;
+    font-weight: bold;
+    cursor: pointer;
+    display: none;
+}
+
+.page3 {
+    padding: 28px 100px;
+    background-color: rgba(0, 202, 87, 1);
+    border-radius: 11px;
+    color: #FFFFFF;
+    font-size: 25px;
+    font-family: '微軟正黑體', Arial;
+    font-weight: bold;
+    cursor: pointer;
+    display: none;
+}
+
+.page4 {
+    padding: 28px 100px;
+    background-color: rgba(0, 202, 87, 1);
+    border-radius: 11px;
+    color: #FFFFFF;
+    font-size: 25px;
+    font-family: '微軟正黑體', Arial;
+    font-weight: bold;
+    cursor: pointer;
+    display: none;
+}
+
+.page5 {
+    padding: 28px 100px;
+    background-color: rgba(0, 202, 87, 1);
+    border-radius: 11px;
+    color: #FFFFFF;
+    font-size: 25px;
+    font-family: '微軟正黑體', Arial;
+    font-weight: bold;
+    cursor: pointer;
+    display: none;
+}
+
+.page6 {
+    padding: 28px 100px;
+    background-color: rgba(0, 202, 87, 1);
+    border-radius: 11px;
+    color: #FFFFFF;
+    font-size: 25px;
+    font-family: '微軟正黑體', Arial;
+    font-weight: bold;
+    cursor: pointer;
+    display: none;
+}
+
+.page7 {
+    padding: 28px 100px;
+    background-color: rgba(0, 202, 87, 1);
+    border-radius: 11px;
+    color: #FFFFFF;
+    font-size: 25px;
+    font-family: '微軟正黑體', Arial;
+    font-weight: bold;
+    cursor: pointer;
+    display: none;
+}
+
+.page8 {
+    padding: 28px 100px;
+    background-color: rgba(0, 202, 87, 1);
+    border-radius: 11px;
+    color: #FFFFFF;
+    font-size: 25px;
+    font-family: '微軟正黑體', Arial;
+    font-weight: bold;
+    cursor: pointer;
+    display: none;
+}
+
+.page9 {
+    padding: 28px 100px;
+    background-color: rgba(0, 202, 87, 1);
+    border-radius: 11px;
+    color: #FFFFFF;
+    font-size: 25px;
+    font-family: '微軟正黑體', Arial;
+    font-weight: bold;
+    cursor: pointer;
+    display: none;
+}
+
+.page10 {
+    padding: 28px 100px;
+    background-color: rgba(0, 202, 87, 1);
+    border-radius: 11px;
+    color: #FFFFFF;
+    font-size: 25px;
+    font-family: '微軟正黑體', Arial;
+    font-weight: bold;
+    cursor: pointer;
+    display: none;
+}
+
+.page11 {
+    padding: 28px 100px;
+    background-color: rgba(0, 202, 87, 1);
+    border-radius: 11px;
+    color: #FFFFFF;
+    font-size: 25px;
+    font-family: '微軟正黑體', Arial;
+    font-weight: bold;
+    cursor: pointer;
+    display: none;
+}
+
+.page12 {
+    padding: 28px 100px;
+    background-color: rgba(0, 202, 87, 1);
+    border-radius: 11px;
+    color: #FFFFFF;
+    font-size: 25px;
+    font-family: '微軟正黑體', Arial;
+    font-weight: bold;
+    cursor: pointer;
+    display: none;
+}
